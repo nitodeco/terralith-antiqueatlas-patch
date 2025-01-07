@@ -4,9 +4,11 @@ A Minecraft Resource Pack that provides texture mappings for Antique Atlas to ha
 
 This is a work in progress so expect bugs and missing biome mappings.
 
+Currently, the completion stands at around 73% of the Terralithbiomes.
+
 ## Compatibility
 
-This pack does not work without Terralith and Antique Atlas installed. Apart from that, it should work with any other resource pack as long as it doesn't modify antique atlas configurations.
+This pack does not work without Terralith and Antique Atlas installed. Apart from that, it should work with any other resource pack as long as it doesn't modify antique atlas configurations.sss
 
 ## Contributing
 
