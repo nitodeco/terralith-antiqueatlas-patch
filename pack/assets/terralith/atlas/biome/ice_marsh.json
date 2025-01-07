@@ -1,0 +1,9 @@
+{
+  "textures": {
+    "antique_atlas:base/snow": 5,
+    "antique_atlas:biome/flatland/plains/snowy/snow_2": 3,
+    "antique_atlas:biome/flatland/plains/snowy/snow_3": 3,
+    "antique_atlas:biome/flatland/plains/snowy/snow_spruce_sparse_1": 1,
+    "antique_atlas:biome/flatland/plains/snowy/snow_spruce_sparse_2": 1
+  }
+}
