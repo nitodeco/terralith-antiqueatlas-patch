@@ -1,0 +1,9 @@
+{
+  "textures": [
+    "antique_atlas:biome/arid/badlands/terracotta_tiered",
+    "antique_atlas:biome/arid/badlands/terracotta_tiered_rough",
+    "antique_atlas:biome/arid/badlands/terracotta_tiered_separate",
+    "antique_atlas:biome/woodland/taiga/old_growth_pine/podzol_mega_pine_mega_spruce",
+    "antique_atlas:biome/woodland/taiga/old_growth_pine/podzol_pine_mega_pine"
+  ]
+}

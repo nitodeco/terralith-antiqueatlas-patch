@@ -1,0 +1,9 @@
+{
+  "textures": [
+    "antique_atlas:base/snow",
+    "antique_atlas:biome/woodland/taiga/pine_spruce_1",
+    "antique_atlas:biome/woodland/taiga/pine_spruce_2",
+    "antique_atlas:base/grass",
+    "antique_atlas:biome/flatland/plains/grass_3"
+  ]
+}
