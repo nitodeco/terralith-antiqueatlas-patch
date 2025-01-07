@@ -1,0 +1,11 @@
+{
+  "textures": [
+    "antique_atlas:biome/flatland/plains/grass_hills_low",
+    "antique_atlas:biome/flatland/plains/grass_hills",
+    "antique_atlas:biome/arid/savanna/plateau/grass_plateau_1",
+    "antique_atlas:biome/arid/savanna/plateau/grass_plateau_2",
+    "antique_atlas:biome/arid/savanna/plateau/grass_plateau_3",
+    "antique_atlas:biome/highland/meadow/grass_dandelions_plateau",
+    "antique_atlas:biome/highland/meadow/grass_daisies_plateau"
+  ]
+}
