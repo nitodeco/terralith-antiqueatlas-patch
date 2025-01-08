@@ -20,7 +20,7 @@
 
 All versions can be downloaded from the [GitHub Releases page](https://github.com/nitodeco/terralith-antiqueatlas-patch/releases).
 
-This resource pack is also available on [Modrinth](https://modrinth.com/resourcepack/antiqueatlas-terralith-patch).
+This resource pack is also available on [Modrinth](https://modrinth.com/resourcepack/antiqueatlas-terralith).
 
 ## Contributing
 
