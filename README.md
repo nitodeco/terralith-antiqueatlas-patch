@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="pack.png" />
+  <img src="pack/pack.png" />
   <h1 align="center">Antique Atlas - Terralith Patch</h1>
   <h2 align="center">
     Vizualize Terralith biomes in Antique Atlas.
