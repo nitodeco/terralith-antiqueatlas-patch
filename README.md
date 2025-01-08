@@ -22,6 +22,10 @@ All versions can be downloaded from the [GitHub Releases page](https://github.co
 
 This resource pack is also available on [Modrinth](https://modrinth.com/resourcepack/antiqueatlas-terralith).
 
+## Known Issues
+
+Some biomes still have issues with missing tiles or incorrect/wrong biome tiles. I am already aware of a lot of those and in the process of fixing them, however if there is not already an issue here on GitHub for a specific biome, please feel free to open one to let me know.
+
 ## Contributing
 
 If you want to contribute to this project, awesome! Feel free to open an issue or fork the repository and create a pull request. See more in [CONTRIBUTING](CONTRIBUTING) file.
