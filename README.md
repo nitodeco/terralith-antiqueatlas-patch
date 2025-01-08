@@ -16,8 +16,6 @@
     A Minecraft Resource Pack that provides texture mappings for Antique Atlas to handle Terralith biomes.
 </p>
 
-This resource pack does not add any new textures, instead it maps existing biome tiles to Terralith biome ids.
-
 ## Download
 
 All versions can be downloaded from the [GitHub Releases page](https://github.com/nitodeco/terralith-antiqueatlas-patch/releases).
