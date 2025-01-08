@@ -1,14 +1,28 @@
-# Terralith - Antique Atlas Patch
+<p align="center">
+  <img src="pack.png" />
+  <h1 align="center">Antique Atlas - Terralith Patch</h1>
+  <h2 align="center">
+    Vizualize Terralith biomes in Antique Atlas.
+  </h2>
+</p>
 
-A Minecraft Resource Pack that provides texture mappings for Antique Atlas to handle Terralith biomes. It does not add any new textures, instead it maps existing biome tiles to Terralith biome ids.
+<p align="center">
+  <a aria-label="license" href="LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg">
+  </a>
+</p>
 
-This is a work in progress so expect bugs and missing biome mappings.
+<p align="center">
+    A Minecraft Resource Pack that provides texture mappings for Antique Atlas to handle Terralith biomes.
+</p>
 
-Currently, the completion stands at around 73% of the Terralithbiomes.
+This resource pack does not add any new textures, instead it maps existing biome tiles to Terralith biome ids.
 
-## Compatibility
+## Download
 
-This pack does not work without Terralith and Antique Atlas installed. Apart from that, it should work with any other resource pack as long as it doesn't modify antique atlas configurations.sss
+All versions can be downloaded from the [GitHub Releases page](https://github.com/nitodeco/terralith-antiqueatlas-patch/releases).
+
+This resource pack is also available on [Modrinth](https://modrinth.com/resourcepack/antique-atlas-terralith-patch).
 
 ## Contributing
 
