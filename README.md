@@ -22,6 +22,8 @@ All versions can be downloaded from the [GitHub Releases page](https://github.co
 
 This resource pack is also available on [Modrinth](https://modrinth.com/resourcepack/antiqueatlas-terralith).
 
+As of right now, only versions 1.20 and above are supported. If you'd like to see support for older versions, please feel free to open an issue about it.
+
 ## Known Issues
 
 Some biomes still have issues with missing tiles or incorrect/wrong biome tiles. I am already aware of a lot of those and in the process of fixing them, however if there is not already an issue here on GitHub for a specific biome, please feel free to open one to let me know.
