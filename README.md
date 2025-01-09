@@ -16,6 +16,8 @@
     A resource pack for Minecraft: Java Edition that provides texture mappings for Antique Atlas to handle Terralith biomes.
 </p>
 
+> The issue of missing fallback biome tiles has been fixed in Antique Atlas version [v2.10.1](https://github.com/sisby-folk/antique-atlas/releases/tag/v2.10.1+1.20). If you are seeing "?" symbols on the map, make sure to check your AA version before installing this.
+
 ## Download
 
 All versions can be downloaded from the [GitHub Releases page](https://github.com/nitodeco/terralith-antiqueatlas-patch/releases).
